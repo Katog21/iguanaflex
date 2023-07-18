@@ -1,0 +1,17 @@
+.box {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center
+    /*justify-content: space-around;*/
+    /*justify-content : flex-start;/*
+    justifye-contet: nowrap*/
+                        
+    
+}
+.cajas {
+
+    max-width:100%;
+    width: 30%;
+}
+
+

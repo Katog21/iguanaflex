@@ -1,0 +1,6 @@
+ul {
+    display: flex;
+    justify-content: flex-end;
+    gap: 30%;
+    /*     list-style-type: none;*/
+}
